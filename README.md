@@ -8,7 +8,7 @@ This project is a collection of solutions to various coding challenges from Leet
 JavaScript
 
 ## About
-# 30 Days of JavaScript
+### 30 Days of JavaScript
 
 
 Feel free to explore the code, learn from it, and even contribute your own solutions to make it even better! Let's level up our coding skills together!
